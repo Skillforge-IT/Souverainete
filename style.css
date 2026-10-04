@@ -37,7 +37,7 @@ a {
   right: 20px;
   width: 60px;
   height: 60px;
-  background-image: url('/logo.png');
+  background-image: url('/logo.svg');
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 100;
@@ -51,8 +51,8 @@ a {
   bottom: 10px;
   left: 50%;
   transform: translateX(-50%);
-  width: 300px;
-  height: 40px;
+  width: 600px;
+  height: 80px;
   background-image: url('/bloc_marque_fse_dec_2022.jpg');
   background-size: contain;
   background-repeat: no-repeat;
