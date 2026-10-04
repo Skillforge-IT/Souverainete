@@ -13,7 +13,7 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif !important;
-  color: var(--skillforge-dark);
+  color: var(--skillforge-blue);
 }
 
 .slidev-code, code, pre {
