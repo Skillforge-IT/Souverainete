@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev buildld --base /Souverainet",
+    "build": "slidev buildld --base /Souverainete",
     "dev": "slidev --open",
     "export": "slidev export"
   },
