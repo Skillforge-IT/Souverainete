@@ -1,5 +1,6 @@
 ---
 theme: default
+css: unocss
 title: "Souveraineté des données — niveau reconversion"
 class: text-center
 highlighter: shiki

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Roboto:wght@400;500;700&family=JetBrains+Mono&display=swap');
+
+:root {
+  --skillforge-dark: #1e2a33;
+  --skillforge-grey: #4a5a63;
+  --skillforge-blue: #2d9bf0;
+}
+
+/* Typographies */
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif !important;
+  color: var(--skillforge-dark);
+}
+
+.slidev-code, code, pre {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* Couleurs liens / accents */
+a {
+  color: var(--skillforge-blue);
+}
+
+/* Logo en haut à droite sur chaque slide */
+.slidev-layout {
+  position: relative;
+}
+
+.slidev-layout::before {
+  content: '';
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-image: url('/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 100;
+  pointer-events: none;
+}
+
+/* Bloc marque en bas de page */
+.slidev-layout::after {
+  content: '';
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px;
+  height: 40px;
+  background-image: url('/bloc_marque_fse_dec_2022.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 100;
+  pointer-events: none;
+}
