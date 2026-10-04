@@ -5,14 +5,13 @@ title: "Souveraineté des données — niveau reconversion"
 class: text-center
 highlighter: shiki
 lineNumbers: false
+background: flutie8211-cyber-security-8819383_1920.jpg
 ---
 
 # Souveraineté des données
 
 ## Comprendre, vérifier, aider
 
-**Formation pour personnes en reconversion · technicien·ne support**  
-Deux demi-journées · progression pas à pas · 2026
 
 <!--
 Visuel suggéré : une armoire à dossiers, un ordinateur et un nuage reliés par des flèches.
@@ -33,12 +32,12 @@ Message formateur : on a le droit de ne pas connaître tous les mots au départ.
 
 ---
 
-# Le fil rouge des deux demi-journées
+# Plan de formation
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 <div>
 
-### Demi-journée 1 — Comprendre
+### Partie 1 — Comprendre
 
 - Les bases : donnée, Internet, cloud
 - La souveraineté en mots simples
@@ -48,7 +47,7 @@ Message formateur : on a le droit de ne pas connaître tous les mots au départ.
 </div>
 <div>
 
-### Demi-journée 2 — Agir
+### Partie 2 — Agir
 
 - Une recherche guidée, étape par étape
 - Une décision expliquée simplement
@@ -76,6 +75,7 @@ Message formateur : on a le droit de ne pas connaître tous les mots au départ.
 
 ---
 
+# Partie 1 - Comprendre la souveraineté 
 # Mise à niveau 1 — C’est quoi, une donnée ?
 
 Une **donnée** = une information que l’on peut garder, lire ou transmettre.
@@ -139,7 +139,7 @@ Les 4 questions de base :
 
 # Les mots difficiles, traduits
 
-| Mot | Explication avec les mots du quotidien |
+| Terme | Explication  |
 |---|---|
 | **Héberger** | garder des données sur un ordinateur ou un serveur |
 | **Serveur** | ordinateur qui rend un service à d’autres appareils |
@@ -158,6 +158,7 @@ Une donnée peut passer par :
 
 - le poste de travail ;
 - le réseau ;
+- le serveur de l'entreprise ;
 - un outil de ticketing ;
 - un fournisseur cloud ;
 - une sauvegarde ou un support technique.
@@ -172,17 +173,16 @@ Une donnée peut passer par :
 
 # Pourquoi cela concerne le support ?
 
-Un geste de support peut :
+Un technicin de support peut :
 
 - afficher une donnée personnelle ;
 - envoyer une capture d’écran ;
 - donner un accès temporaire ;
-- restaurer une sauvegarde ;
-- transmettre un ticket à un prestataire.
+- restaurer une sauvegarde.
 
 **Réflexe :** avant de cliquer sur « envoyer », se demander : *qu’est-ce que j’envoie, à qui et où cela va ?*
 
-**Lien ASRC :** C21 (support et suivi des incidents), C22 (respect des règles de protection des données).
+
 
 ---
 
@@ -199,16 +199,31 @@ Un geste de support peut :
 **Règle simple :** une entreprise soumise au droit des États-Unis peut devoir répondre à une demande légale américaine, même si ses serveurs sont ailleurs.  
 **Impact support :** ne pas promettre qu’un pays de stockage suffit ; demander au responsable sécurité/juridique en cas de doute.
 
+</div>
+<div>
+
 ### Data Act
 **Règle simple :** faciliter l’accès et le changement de fournisseur pour certaines données produites par des objets ou services connectés.  
 **Impact support :** vérifier comment récupérer les données si l’entreprise change d’outil.
 
 </div>
+</div>
+
+> Ces repères aident à poser une question. La décision juridique appartient aux personnes compétentes.
+
+---
+
+# Le cadre réglementaire : une idée par texte
+
+<div class="grid grid-cols-2 gap-6 text-sm">
 <div>
 
 ### Schrems II
 **Règle simple :** un transfert de données vers un pays hors UE doit offrir une protection réellement comparable à celle de l’UE.  
 **Impact support :** repérer le pays et le fournisseur ; ne pas conclure seul que « c’est autorisé ».
+
+</div>
+<div>
 
 ### SecNumCloud
 **Règle simple :** qualification française de sécurité pour certains services cloud sensibles.  
@@ -223,7 +238,7 @@ Un geste de support peut :
 
 # Un exemple : le Cloud Act et le RGPD
 
-**Situation :** un prestataire demande une copie d’un ticket contenant des données client.
+**Situation :** un prestataire demande une copie d’un fichier contenant des données client.
 
 1. Le **RGPD** nous demande de protéger et limiter les données.
 2. Le **Cloud Act** peut créer une obligation pour certains fournisseurs liés aux États-Unis.
@@ -296,7 +311,7 @@ Pour chaque cas, choisissez **vérifier**, **limiter**, **tracer** ou **escalade
 
 ---
 
-# Demi-journée 2 — De la question à la décision
+# Partie 2 — De la question à la décision
 
 ## Une recherche accompagnée, jamais « débrouillez-vous »
 
