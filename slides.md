@@ -13,10 +13,7 @@ background: flutie8211-cyber-security-8819383_1920.jpg
 ## Comprendre, vérifier, aider
 
 
-<!--
-Visuel suggéré : une armoire à dossiers, un ordinateur et un nuage reliés par des flèches.
-Message formateur : on a le droit de ne pas connaître tous les mots au départ.
--->
+
 
 ---
 
@@ -28,7 +25,7 @@ Message formateur : on a le droit de ne pas connaître tous les mots au départ.
 
 > **Objectif :** savoir poser les bonnes questions quand une donnée est créée, envoyée ou stockée.
 
-<!-- Visuel suggéré : escalier en 3 marches « comprendre → vérifier → expliquer ». -->
+
 
 ---
 
@@ -57,7 +54,7 @@ Message formateur : on a le droit de ne pas connaître tous les mots au départ.
 </div>
 </div>
 
-<!-- Visuel suggéré : deux demi-cercles « comprendre » puis « agir ». -->
+
 
 ---
 
@@ -88,7 +85,6 @@ Exemples :
 
 **Analogie :** une donnée, c’est comme une feuille dans un dossier.
 
-<!-- Visuel suggéré : trois fiches papier avec « nom », « photo », « ticket ». -->
 
 ---
 
@@ -104,7 +100,6 @@ Exemples :
 
 **Analogie :** Internet ressemble au réseau postal : une adresse, des étapes, un destinataire.
 
-<!-- Visuel suggéré : enveloppe « demande » passant par 3 bureaux avant d’arriver. -->
 
 ---
 
@@ -118,7 +113,6 @@ Exemples :
 
 **Analogie :** louer un box de stockage : vos affaires sont ailleurs, mais vous devez connaître les règles d’accès.
 
-<!-- Visuel suggéré : maison → Internet → entrepôt avec cadenas. -->
 
 ---
 
@@ -137,7 +131,7 @@ Les 4 questions de base :
 
 ---
 
-# Les mots difficiles, traduits
+# Les mots clés
 
 | Terme | Explication  |
 |---|---|
@@ -157,6 +151,7 @@ Les 4 questions de base :
 Une donnée peut passer par :
 
 - le poste de travail ;
+- un serveur ;
 - le réseau ;
 - le serveur de l'entreprise ;
 - un outil de ticketing ;
@@ -167,13 +162,12 @@ Une donnée peut passer par :
 
 **Analogie :** suivre un colis : départ, étapes, entrepôt, livraison.
 
-<!-- Visuel suggéré : flèches « poste → outil support → cloud → sauvegarde ». -->
 
 ---
 
 # Pourquoi cela concerne le support ?
 
-Un technicin de support peut :
+Un technicien de support peut :
 
 - afficher une donnée personnelle ;
 - envoyer une capture d’écran ;
@@ -255,9 +249,9 @@ Un technicin de support peut :
 
 ---
 
-# Grille de lecture : les 4 lunettes
+# Grille de lecture 
 
-| Lunette | Question en langage simple |
+| Mot clé | Question  |
 |---|---|
 | **Donnée** | Qu’est-ce qui est enregistré ? Est-ce sensible ? |
 | **Lieu** | Où est-ce gardé et sauvegardé ? |
@@ -266,25 +260,23 @@ Un technicin de support peut :
 
 **Mot métier :** une **cartographie** → un dessin ou tableau qui montre le trajet des données.
 
-<!-- Visuel suggéré : quatre lunettes autour d’un dossier « client ». -->
 
 ---
 
 # Activité 1 — Le ticket support (20 min)
 
-### En binôme, avec la fiche « 4 lunettes »
+### En binôme, avec la fiche « Grille de lecture »
 
 Situation : *« Mon compte est bloqué. Voici ma capture d’écran et mon mot de passe pour aller plus vite. »*
 
-1. Entourez les données présentes.
-2. Barrez ce qui ne doit pas être demandé ou partagé.
+1. Notez les données présentes.
+2. Mentionnez ce qui ne doit pas être demandé ou partagé.
 3. Choisissez la réponse la plus sûre :
    - A. demander le mot de passe ;
    - B. utiliser la procédure de réinitialisation ;
    - C. envoyer la capture à tout le service.
 4. Expliquez votre choix en une phrase.
 
-**Correction bienveillante :** on compare les raisonnements, pas les personnes.
 
 ---
 
@@ -307,43 +299,27 @@ Pour chaque cas, choisissez **vérifier**, **limiter**, **tracer** ou **escalade
 2. Le cloud est pratique, mais il faut connaître les règles de la location.
 3. En support, je **limite, vérifie, trace et demande de l’aide** si nécessaire.
 
-<!-- Visuel suggéré : quatre pictogrammes : filtre, loupe, carnet, collègue. -->
+
+
+
 
 ---
 
 # Partie 2 — De la question à la décision
 
-## Une recherche accompagnée, jamais « débrouillez-vous »
-
-- On commence par un exemple fait ensemble.
-- Chaque étape a une consigne visible.
-- Les groupes répondent à des questions courtes.
-- Le formateur passe vérifier avant la restitution.
-
-**Objectif :** produire une réponse claire et prudente, pas trouver « la phrase parfaite ».
-
----
-
-# Étape 0 — Exemple fait ensemble (15 min)
+## Une recherche accompagnée
 
 ### Question commune
 **« Le RGPD interdit-il toujours de stocker une donnée hors de l’Union européenne ? »**
 
-Le formateur montre en direct :
+1. comment reconnaître un site institutionnel (CNIL, ANSSI, EUR-Lex) ;
+2. chercher les mots importants dans la page ;
+3. comment dire ce que la source ne permet pas d’affirmer.
 
-1. comment écrire la question dans un moteur de recherche ;
-2. comment reconnaître un site institutionnel (CNIL, ANSSI, EUR-Lex) ;
-3. comment chercher les mots importants dans la page ;
-4. comment noter une phrase et son lien ;
-5. comment dire ce que la source ne permet pas d’affirmer.
-
-**Réponse attendue, en langage simple :** ce n’est pas automatiquement interdit ; il faut des garanties et une vérification du contexte.
 
 ---
 
 # La fiche de guidage — mode d’emploi
-
-Chaque groupe reçoit une fiche à remplir.
 
 1. **Je lis la situation.**
 2. **Je souligne les mots inconnus.**
@@ -354,7 +330,6 @@ Chaque groupe reçoit une fiche à remplir.
 7. **Je traduis en conséquence pour le support.**
 8. **Je prépare une restitution de 3 minutes.**
 
-> Si une étape bloque, on lève la main : demander de l’aide fait partie de la méthode.
 
 ---
 
@@ -367,7 +342,7 @@ Complétez les cases :
 - La personne qui demande est : …
 - Le risque que l’on veut éviter est : …
 
-Puis choisissez une question :
+Puis répondez aux questions :
 
 - Où la donnée est-elle conservée ?
 - Qui peut y accéder ?
@@ -398,7 +373,7 @@ Puis choisissez une question :
 
 Pour chaque source, remplir :
 
-| À noter | Réponse courte |
+| Objet | Réponse courte |
 |---|---|
 | Organisme / auteur | … |
 | Date | … |
@@ -420,7 +395,6 @@ Avant de garder une information, répondre :
 - Confirme-t-elle un fait ou donne-t-elle une opinion ?
 - Une autre source dit-elle la même chose ?
 
-**En cas de désaccord :** noter les deux versions et demander au formateur ; ne pas choisir au hasard.
 
 ---
 
@@ -507,7 +481,7 @@ Chaque groupe présente :
 
 **Format :** une feuille, un tableau ou trois diapositives maximum.
 
-<!-- Visuel suggéré : carte « situation → preuve → conseil ». -->
+
 
 ---
 
@@ -525,7 +499,6 @@ Questions autorisées :
 - « Quelle est votre source ? »
 - « Que ferait-on concrètement au support ? »
 
-**Climat de travail :** on cherche à comprendre, pas à piéger.
 
 ---
 
@@ -592,13 +565,11 @@ C. je la publie pour avoir un avis
 
 ---
 
-# Quiz — correction encourageante
-
+# Quiz — correction
 - **1 → B :** une donnée peut être un nom, une photo, un ticket ou un journal de connexion.
 - **2 → A :** le cloud est pratique ; il faut vérifier ses règles et ses accès.
 - **3 → B :** vérifier et demander de l’aide est un bon réflexe professionnel.
 
-> Si vous avez hésité, c’est normal : la méthode sert justement à ne pas décider seul dans le doute.
 
 ---
 
@@ -613,7 +584,6 @@ Je limite les données et je respecte la procédure.
 ### 3. Je rends mon action vérifiable
 Je note, je trace et j’escalade si besoin.
 
-**Lien ASRC :** support des incidents (C21), conformité (C22), recherche et veille (C28–C29).
 
 ---
 
@@ -643,4 +613,3 @@ Quand vous verrez une donnée dans un ticket, pensez :
 
 Vous avez maintenant une méthode pour avancer, même quand vous ne connaissez pas encore le mot technique.
 
-<!-- Visuel suggéré : une loupe au-dessus d’un ticket, puis une flèche vers un collègue référent. -->
